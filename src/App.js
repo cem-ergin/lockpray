@@ -11,7 +11,7 @@ import Support from "./pages/Support";
 
 function App() {
   return (
-    <Router basename="/lockpray-web">
+    <Router basename="/lockpray">
       <div className="App">
         <header className="AppHeader">
           <div className="AppBrand">
