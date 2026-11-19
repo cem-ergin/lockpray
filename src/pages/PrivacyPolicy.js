@@ -4,7 +4,7 @@ const PrivacyPolicy = () => (
   <article className="LegalPage">
     <header>
       <h1>Privacy Policy</h1>
-      <p className="LegalPage-meta">Last Updated: November 14, 2026</p>
+      <p className="LegalPage-meta">Last Updated: November 19, 2026</p>
       <p className="LegalPage-subtitle">
         This Privacy Policy explains how Lockpray ("the App", "we", "our") handles user data, permissions,
         analytics, subscriptions, and third-party services.
@@ -28,7 +28,7 @@ const PrivacyPolicy = () => (
       <ul>
         <li>app interactions such as feature usage and button taps</li>
         <li>device type and operating system version</li>
-        <li>approximate location (country or region only)</li>
+        <li>approximate location (country and city), estimated from your IP address; we do not store the IP address</li>
         <li>app performance metrics and crash diagnostics</li>
         <li>screen views and session duration</li>
         <li>the app version and when the App was installed, opened, or closed</li>
